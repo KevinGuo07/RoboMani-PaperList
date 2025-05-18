@@ -9,41 +9,47 @@
 
 This repository collects academic papers and resources related to **robotic manipulation**. The focus is on:
 
-- Generalist Manipulation Models and Methods
-- Reinforcement Learning (RL) on Robotics Manipulation
-- Data & Benchmarks
-- Hardware Projects on Robotics
-- Interdisciplinary
+- [Generalist Manipulation Models & Methods](#-generalist-manipulation-models-and-methods)
+- [Reinforcement Learning (RL) on Robotics Manipulation](#-reinforcement-learning-rl-on-robotics-manipulation)
+- [Data & Benchmarks](#-data-and-benchmarks) 
+- [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
+- [Interdisciplinary](#-interdisciplinary) 
 
 Papers with **open-sourced implementations** are highlighted with a ☀️  
-Papers with **real-robot experiments** are highlighted with a ✅
-
+Papers with **real-world performance** by us are highlighted with a ✅
 ---
 
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
-
-- [https://www.physicalintelligence.company/download/pi05.pdf] **π0.5: a VLA with Open-World Generalization** [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️ ✅
-- [https://arxiv.org/pdf/2411.19309] **GRAPE: Generalizing Robot Policy via Preference Alignment** [[project](https://grape-vla.github.io/)] ☀️ ✅
-- [https://arxiv.org/abs/2410.24164] **π0: A Vision-Language-Action Flow Model for General Robot Control** [[project](https://www.physicalintelligence.company/blog/pi0)] ☀️ ✅
-- [https://arxiv.org/abs/2406.09246] **OpenVLA: An Open-Source Vision-Language-Action Model** [[project](https://openvla.github.io/)] ☀️ ✅
+- **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️ ✅
+- **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[paper](https://arxiv.org/pdf/2411.19650)] [[project](https://cogact.github.io/)] ☀️ ✅
+- **GRAPE**: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)] [[project](https://grape-vla.github.io/)] ☀️ 
+- **π0**: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://arxiv.org/pdf/2410.24164)] [[project](https://www.physicalintelligence.company/blog/pi0)] ☀️ ✅
+- **OpenVLA**: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
-- [https://arxiv.org/pdf/2505.10442] **IN–RIL: INTERLEAVED REINFORCEMENT AND IMITATION LEARNING FOR POLICY FINE-TUNING** [[project]()] 
-- [https://arxiv.org/abs/2412.09858] **RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning** [[project](https://generalist-distillation.github.io/)] ☀️ ✅
-- [https://arxiv.org/pdf/2401.16013] **SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning** [[project](https://serl-robot.github.io/)] ☀️ ✅
+- **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
+- **IN–RIL**: INTERLEAVED REINFORCEMENT AND IMITATION LEARNING FOR POLICY FINE-TUNING [[paper](https://arxiv.org/pdf/2505.10442)] [[project]()]
+- **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
+- Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
+- **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
+- **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ 
 
-### 📦 Data & Benchmarks
+### 📦 Data and Benchmarks
 
-- [https://arxiv.org/pdf/2505.07728] **Guiding Data Collection via Factored Scaling Curves** [[project]()] ✅
-- [https://arxiv.org/abs/2502.16932] **DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning** [[project](https://demo-generation.github.io/)] ☀️ ✅
-- [https://arxiv.org/pdf/2310.08864] **Open X-Embodiment: Robotic Learning Datasets and RT-X Model** [[project](https://robotics-transformer-x.github.io/)]
-- [https://arxiv.org/abs/2306.03310] **LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning** [[project](https://libero-project.github.io/main.html)]
+- **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] ✅
+- **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️ 
+- **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
 
+- **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups [[paper](https://arxiv.org/pdf/2405.05941)] [[project](https://simpler-env.github.io/)] ✅
+- **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning [[paper](https://arxiv.org/pdf/2306.03310)] [[project](https://libero-project.github.io/main.html)] ✅
+- **DISCOVERSE**: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper](https://drive.google.com/file/d/1pG8N2qBdLuqj8_wylTYgsXYGOKMhwKXB/view)] [[project](https://air-discoverse.github.io/)] ✅
 
 ### 🛠️ Hardware Projects on Robotics
-- [https://arxiv.org/abs/2503.05652] **BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities** [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
+- **Mobile ALOHA**: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2401.02117)] [[project]([https://behavior-robot-suite.github.io/](https://mobile-aloha.github.io/))] ☀️ 
+- **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
+
 
 ### 🔬 Interdisciplinary
 
