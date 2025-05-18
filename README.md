@@ -1,7 +1,7 @@
 # A Paperlist for RoboMani-Learning 🚀🤖
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
-% [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)-->
 
 ---
 
@@ -15,7 +15,7 @@ This repository collects academic papers and resources related to **robotic mani
 - Hardware Projects on Robotics
 - Interdisciplinary
 
-Papers with **open-sourced implementations** are highlighted with a ☀️
+Papers with **open-sourced implementations** are highlighted with a ☀️ 
 Papers with **real-robot experiments** are highlighted with a ✅
 
 ---
