@@ -52,7 +52,7 @@ Papers with **real-robot experiments** are highlighted with a ✅
 
 ## 🙋 Contributing
 
-This repo is inspired by Yanjie Ze's [[Paperlist](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
+This repo is inspired by Yanjie Ze's [[Paperlist](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]  
 Feel free to submit pull requests for new papers, corrected links, or updated results.
 
 ---
