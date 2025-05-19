@@ -38,11 +38,11 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 📦 Data and Benchmarks
 
-- **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] ✅
+- **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️ 
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
 
-- **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)]
+- **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)] ✅
 - **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups [[paper](https://arxiv.org/pdf/2405.05941)] [[project](https://simpler-env.github.io/)] ✅
 - **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning [[paper](https://arxiv.org/pdf/2306.03310)] [[project](https://libero-project.github.io/main.html)] ✅
 - **DISCOVERSE**: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper](https://drive.google.com/file/d/1pG8N2qBdLuqj8_wylTYgsXYGOKMhwKXB/view)] [[project](https://air-discoverse.github.io/)] ✅
