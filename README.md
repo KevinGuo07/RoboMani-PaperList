@@ -62,6 +62,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 This repo is inspired by Yanjie Ze's [[Paperlist](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]  
 Feel free to submit pull requests for new papers, corrected links, or updated results.
 
+Yet another oh my awesome is all you need!
 ---
 
 ## 📜 License
