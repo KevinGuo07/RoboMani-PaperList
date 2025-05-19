@@ -15,8 +15,8 @@ This repository collects academic papers and resources related to **robotic mani
 - [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
 - [Interdisciplinary](#-interdisciplinary) 
 
-Papers with **open-sourced implementations** are highlighted with a ☀️  
-Papers with **real-world performance** by us are highlighted with a ✅
+Papers with **open-sourced implementations** are marked with a ☀️  
+Papers with **real-world performance** reproduced by us are marked with a ✅
 ---
 
 ## 📚 Paper List
@@ -42,12 +42,13 @@ Papers with **real-world performance** by us are highlighted with a ✅
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️ 
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
 
+- **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)]
 - **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups [[paper](https://arxiv.org/pdf/2405.05941)] [[project](https://simpler-env.github.io/)] ✅
 - **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning [[paper](https://arxiv.org/pdf/2306.03310)] [[project](https://libero-project.github.io/main.html)] ✅
 - **DISCOVERSE**: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper](https://drive.google.com/file/d/1pG8N2qBdLuqj8_wylTYgsXYGOKMhwKXB/view)] [[project](https://air-discoverse.github.io/)] ✅
 
 ### 🛠️ Hardware Projects on Robotics
-- **Mobile ALOHA**: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2401.02117)] [[project]([https://behavior-robot-suite.github.io/](https://mobile-aloha.github.io/))] ☀️ 
+- **Mobile ALOHA**: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[paper](https://arxiv.org/pdf/2401.02117)] [[project]([https://behavior-robot-suite.github.io/](https://mobile-aloha.github.io/))] ☀️ 
 - **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
 
 
