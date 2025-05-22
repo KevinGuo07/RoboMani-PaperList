@@ -49,14 +49,14 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️ 
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
-
+- **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/abs/2503.06669)] [[project](https://agibot-world.com/)] ☀️
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)] ✅
 - **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups [[paper](https://arxiv.org/pdf/2405.05941)] [[project](https://simpler-env.github.io/)] ✅
 - **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning [[paper](https://arxiv.org/pdf/2306.03310)] [[project](https://libero-project.github.io/main.html)] ✅
 - **DISCOVERSE**: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper](https://drive.google.com/file/d/1pG8N2qBdLuqj8_wylTYgsXYGOKMhwKXB/view)] [[project](https://air-discoverse.github.io/)] ✅
 
 ### 🛠️ Hardware Projects on Robotics
-
+- **TWIST**: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)]
 - **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
 - **HOVER**: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://arxiv.org/pdf/2410.21229)] [[project](https://hover-versatile-humanoid.github.io/)] ☀️
@@ -73,7 +73,6 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 This repo is inspired by Yanjie Ze's [[Paperlist](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]  
 Feel free to submit pull requests for new papers, corrected links, or updated results.
 
-Yet another oh my awesome is all you need!
 ---
 
 ## 📜 License
