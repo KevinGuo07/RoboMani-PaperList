@@ -23,6 +23,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🧠 Generalist Manipulation Models and Methods
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
+- **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project]()]
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️ ✅
