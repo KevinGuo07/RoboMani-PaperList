@@ -37,6 +37,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] 
+- **ManipLVM-R1**: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2505.16517)] [[project]()] 
 - **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
 - **IN–RIL**: INTERLEAVED REINFORCEMENT AND IMITATION LEARNING FOR POLICY FINE-TUNING [[paper](https://arxiv.org/pdf/2505.10442)] [[project]()]
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
