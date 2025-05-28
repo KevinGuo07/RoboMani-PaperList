@@ -22,6 +22,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project]()]
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
@@ -38,6 +39,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
+- **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
 - **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] 
 - **ManipLVM-R1**: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2505.16517)] [[project]()] 
 - **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
@@ -69,7 +72,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 
 ### 🔬 Interdisciplinary
--- The hippocampal sharp wave–ripple in memory retrieval for immediate use and consolidation [[paper](https://www.nature.com/articles/s41583-018-0077-1)]
+- The hippocampal sharp wave–ripple in memory retrieval for immediate use and consolidation [[paper](https://www.nature.com/articles/s41583-018-0077-1)]
 
 ---
 
