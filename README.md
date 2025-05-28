@@ -58,6 +58,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
 - Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/abs/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
 
+-**AutoBio**: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory [[paper](https://arxiv.org/pdf/2505.14030) [[project](https://github.com/autobio-bench/AutoBio)] 
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
 - **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/abs/2503.06669)] [[project](https://agibot-world.com/)] ☀️
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)] ✅
