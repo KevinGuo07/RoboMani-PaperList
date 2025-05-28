@@ -44,7 +44,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] 
 - **ManipLVM-R1**: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2505.16517)] [[project]()] 
 - **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
-- **IN–RIL**: INTERLEAVED REINFORCEMENT AND IMITATION LEARNING FOR POLICY FINE-TUNING [[paper](https://arxiv.org/pdf/2505.10442)] [[project]()]
+- **IN–RIL**: Interleaved Reinforement and Imitation Learning for Policy Fine-tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project]()]
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
