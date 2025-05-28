@@ -22,8 +22,10 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper]()] [[project]()]
 - **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
+- **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories  [[paper](https://arxiv.org/pdf/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project]()]
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
@@ -65,6 +67,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🛠️ Hardware Projects on Robotics
 - **TWIST**: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)]
+- **Berkeley Humanoid Lite**: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[project](https://arxiv.org/pdf/2504.17249)] [[project](https://lite.berkeley-humanoid.org/)]
 - **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
 - **HOVER**: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://arxiv.org/pdf/2410.21229)] [[project](https://hover-versatile-humanoid.github.io/)] ☀️
