@@ -22,6 +22,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulationhttps: [[paper](//arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
 - **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper]()] [[project]()]
 - **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
