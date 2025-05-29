@@ -72,7 +72,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
 - **HOVER**: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://arxiv.org/pdf/2410.21229)] [[project](https://hover-versatile-humanoid.github.io/)] ☀️
-- **Mobile ALOHA**: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[paper](https://arxiv.org/pdf/2401.02117)] [[project]([https://behavior-robot-suite.github.io/](https://mobile-aloha.github.io/))] ☀️ 
+- **Mobile ALOHA**: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[paper](https://arxiv.org/pdf/2401.02117)] [[project](https://mobile-aloha.github.io/)] ☀️ 
 
 
 ### 🔬 Interdisciplinary
