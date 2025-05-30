@@ -24,17 +24,17 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ### 🧠 Generalist Manipulation Models and Methods
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
 - **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
-- **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper]()] [[project]()]
+- **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.21864)] [[project](https://dex-umi.github.io/)]☀️
 - **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
 - **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories  [[paper](https://arxiv.org/pdf/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
-- **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project]()]
-- **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)]
+- **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)] ☀️
+- **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
 - **PointVLA**: Injecting the 3D World into Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
 - **Helix**:Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[project](https://www.figure.ai/news/helix)]
-- **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)] [[project](https://tracevla.github.io/)]
+- **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)] [[project](https://tracevla.github.io/)] ☀️
 - **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[paper](https://arxiv.org/pdf/2411.19650)] [[project](https://cogact.github.io/)] ☀️ ✅
 - **GRAPE**: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)] [[project](https://grape-vla.github.io/)] ☀️
 - **iDP3**: Generalizable Humanoid Manipulation with 3D Diffusion Policies [[paper](https://arxiv.org/pdf/2410.10803)] [[project](https://humanoid-manipulation.github.io/)] ☀️
@@ -47,14 +47,14 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()] 
 - **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/abs/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
 - **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
-- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] 
+- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
-- **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] 
+- **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] ☀️ 
 - **ManipLVM-R1**: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2505.16517)] [[project]()]
 - Deep reinforcement learning for robotic manipulation [[technique report](https://patentimages.storage.googleapis.com/7f/04/95/2437c0dc1b5ab6/US20250153352A1.pdf)]
 - **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
-- **IN–RIL**: Interleaved Reinforement and Imitation Learning for Policy Fine-tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project]()]
+- **IN–RIL**: Interleaved Reinforement and Imitation Learning for Policy Fine-tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project](https://github.com/ucd-dare/IN-RIL)]
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
