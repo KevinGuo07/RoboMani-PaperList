@@ -22,6 +22,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
 - **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
 - **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.21864)] [[project](https://dex-umi.github.io/)]☀️
