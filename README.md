@@ -44,6 +44,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/abs/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
+- **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
 - **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] 
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
@@ -54,14 +56,15 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
-- **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ 
+- **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
+- **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/abs/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️
+- 
 
 ### 📦 Data and Benchmarks
 
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
 - Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/abs/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
-
 - **AutoBio**: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory [[paper](https://arxiv.org/pdf/2505.14030) [[project](https://github.com/autobio-bench/AutoBio)] 
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
 - **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/abs/2503.06669)] [[project](https://agibot-world.com/)] ☀️
