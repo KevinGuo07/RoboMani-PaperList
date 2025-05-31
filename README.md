@@ -15,6 +15,7 @@ This repository collects the latest and influential papers and resources related
 - [Data & Benchmarks](#-data-and-benchmarks) 
 - [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
 - [Interdisciplinary](#-interdisciplinary)
+
 The following publications are ordered by time, with the most recent listed first.
 
 Papers with **open-sourced implementations** are marked with a ☀️  
