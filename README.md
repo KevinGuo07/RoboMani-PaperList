@@ -11,12 +11,15 @@ This repository collects the latest and influential papers and resources related
 
 - [Generalist Manipulation Models & Methods](#-generalist-manipulation-models-and-methods)
 - [Reinforcement Learning (RL) on Robotics Manipulation](#-reinforcement-learning-rl-on-robotics-manipulation)
+- [Skill Learning in Robotics](#-skill-learning-in-robotics) 
 - [Data & Benchmarks](#-data-and-benchmarks) 
 - [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
-- [Interdisciplinary](#-interdisciplinary) 
+- [Interdisciplinary](#-interdisciplinary)
+The following publications are ordered by time, with the most recent listed first.
 
 Papers with **open-sourced implementations** are marked with a ☀️  
 Papers with **real-world performance** reproduced by us are marked with a ✅
+
 ---
 
 ## 📚 Paper List
@@ -62,6 +65,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 - **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/abs/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️
+
+### 🦾 Skill Learning in Robotics
 
 ### 📦 Data and Benchmarks
 
