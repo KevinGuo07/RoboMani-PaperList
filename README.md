@@ -32,6 +32,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.21864)] [[project](https://dex-umi.github.io/)]☀️
 - **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
+- **InSpire**: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[paper](https://arxiv.org/pdf/2505.13888)] [[project](https://koorye.github.io/proj/Inspire/)]
 - **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories  [[paper](https://arxiv.org/pdf/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)] ☀️
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
@@ -52,16 +53,18 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789)] [[project](https://rlvla.github.io/)] 
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()] 
 - **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/abs/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
-- **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
 - **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
 - **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] ☀️ 
 - **ManipLVM-R1**: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models [[paper](https://arxiv.org/pdf/2505.16517)] [[project]()]
 - Deep reinforcement learning for robotic manipulation [[technique report](https://patentimages.storage.googleapis.com/7f/04/95/2437c0dc1b5ab6/US20250153352A1.pdf)]
+- **DORA**:Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.14819)] [[project](https://sites.google.com/view/dora-manip)]
+- What Matters for Batch Online Reinforcement Learning in Robotics? [[paper](https://arxiv.org/pdf/2505.08078)] [[project]()] 
 - **ReinboT**: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.07395)] [[project]()] 
 - **IN–RIL**: Interleaved Reinforement and Imitation Learning for Policy Fine-tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project](https://github.com/ucd-dare/IN-RIL)]
-- **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()] 
+- **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()]
+- **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
