@@ -74,7 +74,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ### 🦾 Skill Learning in Robotics
 
 ### 📦 Data and Benchmarks
-
+- **FreeTacMan**: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2506.01941)] [[project](https://freetacmanblog.github.io/)] 
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
 - Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/abs/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
