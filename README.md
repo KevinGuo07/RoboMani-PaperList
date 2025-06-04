@@ -54,7 +54,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
 - Diffusion Guidance Is a Controllable Policy Improvement Operator [[paper](https://arxiv.org/pdf/2505.23458)] [[project](https://github.com/kvfrans/cfgrl)] 
 - What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789)] [[project](https://rlvla.github.io/)] 
-- Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()] 
+- Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()]
+- **GenPO**: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18763)] [[project](https://arxiv.org/html/2505.18763v1)]
 - **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/abs/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
 - **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
