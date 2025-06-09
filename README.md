@@ -84,7 +84,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
 - Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/pdf/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
 - **AutoBio**: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory [[paper](https://arxiv.org/pdf/2505.14030) [[project](https://github.com/autobio-bench/AutoBio)]
-
+- **3DFlowAction**: Learning Cross-Embodiment Manipulation from 3D Flow World Model [[paper](https://arxiv.org/pdf/2506.06199) [[project](https://github.com/Hoyyyaard/3DFlowAction/)]
 - A very good survey and report on Simulators [[project](https://simulately.wiki)]
 - **EgoDex**: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[paper](https://arxiv.org/pdf/2505.11709)] [[project]()]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
