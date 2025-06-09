@@ -26,7 +26,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
-- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/abs/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️
+- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
 - **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
@@ -58,7 +58,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789)] [[project](https://rlvla.github.io/)] 
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()]
 - **GenPO**: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18763)] [[project](https://arxiv.org/html/2505.18763v1)]
-- **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/abs/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
+- **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
 - **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
@@ -74,7 +74,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
-- **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/abs/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️
+- **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️
 
 ### 🦾 Skill Learning in Robotics
 
@@ -82,13 +82,13 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **FreeTacMan**: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2506.01941)] [[project](https://freetacmanblog.github.io/)] 
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
-- Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/abs/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
+- Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition  [[paper](https://arxiv.org/pdf/2407.00299)] [[project](https://norweig1an.github.io/HAJL.github.io/)] 
 - **AutoBio**: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory [[paper](https://arxiv.org/pdf/2505.14030) [[project](https://github.com/autobio-bench/AutoBio)]
 - 
 - **EgoDex**: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[paper](https://arxiv.org/pdf/2505.11709) [[project]()]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
-- **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://arxiv.org/abs/2504.18904)] [[project](https://roboverseorg.github.io/)] ✅
-- **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/abs/2503.06669)] [[project](https://agibot-world.com/)] ☀️
+- **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://arxiv.org/pdf/2504.18904)] [[project](https://roboverseorg.github.io/)] ✅
+- **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/pdf/2503.06669)] [[project](https://agibot-world.com/)] ☀️
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)] ✅
 - **ManiSkill3**: Demonstrating GPU Parallelized Robot Simulation and Rendering for Generalizable Embodied AI  [[paper](https://arxiv.org/pdf/2410.00425)] [[project](https://www.maniskill.ai/)] ✅
 - **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups [[paper](https://arxiv.org/pdf/2405.05941)] [[project](https://simpler-env.github.io/)] ✅
