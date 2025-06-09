@@ -105,7 +105,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 
 ### 🔬 Interdisciplinary
-- The hippocampal sharp wave–ripple in memory retrieval for immediate use and consolidation [[paper](https://www.nature.com/articles/s41583-018-0077-1)]
+- The hippocampal sharp wave–ripple in memory retrieval for immediate use and consolidation [[paper](https://www.nature.com/articles/s41583-018-0077-1)]  [[full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6794196/)]
 
 ---
 
