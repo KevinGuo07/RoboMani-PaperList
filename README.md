@@ -26,11 +26,11 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
-- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/abs/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)]
+- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/abs/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
 - **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
-- **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.21864)] [[project](https://dex-umi.github.io/)]☀️
+- **DexUMI**: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [[paper](https://arxiv.org/pdf/2505.21864)] [[project](https://dex-umi.github.io/)] ☀️
 - **Hume**: Introducing System-2 Thinking in Visual-Language-Action Model [[paper](https://arxiv.org/pdf/2505.21432)] [[project]()]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project]()]
 - **InSpire**: Vision-Language-Action Models with Intrinsic Spatial Reasoning [[paper](https://arxiv.org/pdf/2505.13888)] [[project](https://koorye.github.io/proj/Inspire/)]
@@ -48,6 +48,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **GRAPE**: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)] [[project](https://grape-vla.github.io/)] ☀️
 - **iDP3**: Generalizable Humanoid Manipulation with 3D Diffusion Policies [[paper](https://arxiv.org/pdf/2410.10803)] [[project](https://humanoid-manipulation.github.io/)] ☀️
 - **π0**: A Vision-Language-Action Flow Model for General Robot Control [[paper](https://arxiv.org/pdf/2410.24164)] [[project](https://www.physicalintelligence.company/blog/pi0)] ☀️ ✅
+- **TinyVLA**: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation [[paper](https://arxiv.org/pdf/2409.12514)] [[project](https://arxiv.org/pdf/2409.12514)] ☀️
 - **ReKep**: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation [[paper](https://arxiv.org/pdf/2409.01652)] [[project](https://rekep-robot.github.io/)] ☀️ ✅
 - **OpenVLA**: An Open-Source Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2406.09246)] [[project](https://openvla.github.io/)] ☀️ ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
