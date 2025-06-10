@@ -54,6 +54,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- Self-Challenging Language Model Agents [[paper](https://arxiv.org/pdf/2506.01716)] [[project]()] 
 - Diffusion Guidance Is a Controllable Policy Improvement Operator [[paper](https://arxiv.org/pdf/2505.23458)] [[project](https://github.com/kvfrans/cfgrl)] 
 - What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789)] [[project](https://rlvla.github.io/)] 
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()]
