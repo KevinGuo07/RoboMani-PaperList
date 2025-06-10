@@ -26,6 +26,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- Real-Time Execution of Action Chunking Flow Policies [[paper](https://www.physicalintelligence.company/download/real_time_chunking.pdf)] [[project]()]
 - **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
@@ -54,6 +55,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **Robot-R1**: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper](https://arxiv.org/pdf/2506.00070v1)] [[project]()] 
 - Self-Challenging Language Model Agents [[paper](https://arxiv.org/pdf/2506.01716)] [[project]()] 
 - Diffusion Guidance Is a Controllable Policy Improvement Operator [[paper](https://arxiv.org/pdf/2505.23458)] [[project](https://github.com/kvfrans/cfgrl)] 
 - What Can RL Bring to VLA Generalization? An Empirical Study [[paper](https://arxiv.org/pdf/2505.19789)] [[project](https://rlvla.github.io/)] 
