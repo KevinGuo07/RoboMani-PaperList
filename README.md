@@ -58,7 +58,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
-- **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project]()] 
+- **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project]()]
+- Reinforcement Learning via Implicit Imitation Guidance [[paper](https://arxiv.org/pdf/2506.07505)] [[project]()]
 - **Robot-R1**: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper](https://arxiv.org/pdf/2506.00070v1)] [[project]()] 
 - Self-Challenging Language Model Agents [[paper](https://arxiv.org/pdf/2506.01716)] [[project]()] 
 - Diffusion Guidance Is a Controllable Policy Improvement Operator [[paper](https://arxiv.org/pdf/2505.23458)] [[project](https://github.com/kvfrans/cfgrl)] 
