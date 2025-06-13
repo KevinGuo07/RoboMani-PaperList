@@ -58,8 +58,10 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
-- **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project]()]
+- **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project](https://www.eyerobot.net/)]
 - Reinforcement Learning via Implicit Imitation Guidance [[paper](https://arxiv.org/pdf/2506.07505)] [[project]()]
+- Robotic Policy Learning via Human-assisted Action Preference Optimization [[paper](https://arxiv.org/pdf/2506.07127)] [[project](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)]
+- Self-Adapting Improvement Loops for Robotic Learning [[paper](https://arxiv.org/pdf/2506.07505)] [[project](https://diffusion-supervision.github.io/sail/)]
 - **Robot-R1**: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper](https://arxiv.org/pdf/2506.00070v1)] [[project]()] 
 - Self-Challenging Language Model Agents [[paper](https://arxiv.org/pdf/2506.01716)] [[project]()] 
 - Diffusion Guidance Is a Controllable Policy Improvement Operator [[paper](https://arxiv.org/pdf/2505.23458)] [[project](https://github.com/kvfrans/cfgrl)] 
@@ -96,6 +98,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - A very good survey and report on Simulators [[project](https://simulately.wiki)]
 - **EgoDex**: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[paper](https://arxiv.org/pdf/2505.11709)] [[project]()]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
+- **RoboCerebra**:ALarge-scaleBenchmarkfor Long-horizonRoboticManipulationEvaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)] 
 - **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://arxiv.org/pdf/2504.18904)] [[project](https://roboverseorg.github.io/)] ✅
 - **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/pdf/2503.06669)] [[project](https://agibot-world.com/)] ☀️
 - **RoboTwin**: Dual-Arm Robot Benchmark with Generative Digital Twins [[paper](https://arxiv.org/pdf/2504.13059)] [[project](https://robotwin-benchmark.github.io/)] ✅
