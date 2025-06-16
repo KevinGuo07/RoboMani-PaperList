@@ -26,7 +26,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
-- **RationalVLA: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/RationalVLA/)]
+- **RationalVLA**: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/RationalVLA/)]
 - **Chain-of-Action**: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
 - **BitVLA**: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project]()]
 - **PDFactor**: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf)]
