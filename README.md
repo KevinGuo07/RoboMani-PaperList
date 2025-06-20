@@ -26,6 +26,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **Prompting with the Future**:Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
 - **RationalVLA**: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/RationalVLA/)]
 - **Chain-of-Action**: Trajectory Autoregressive Modeling for Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.09990)] [[project](https://chain-of-action.github.io/)]
 - **BitVLA**: 1-bit Vision-Language-Action Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2506.07530)] [[project]()]
@@ -60,6 +61,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **GMT**:General Motion Tracking for Humanoid Whole-Body Control [[paper](https://arxiv.org/pdf/2506.14770)] [[project](https://gmt-humanoid.github.io/)]
+
 - **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project](https://www.eyerobot.net/)]
 - Reinforcement Learning via Implicit Imitation Guidance [[paper](https://arxiv.org/pdf/2506.07505)] [[project]()]
 - Robotic Policy Learning via Human-assisted Action Preference Optimization [[paper](https://arxiv.org/pdf/2506.07127)] [[project](https://gewu-lab.github.io/hapo_human_assisted_preference_optimization/)]
