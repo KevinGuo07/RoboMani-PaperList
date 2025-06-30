@@ -63,6 +63,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **RLRC**: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project]()]
 - Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
 - **GMT**:General Motion Tracking for Humanoid Whole-Body Control [[paper](https://arxiv.org/pdf/2506.14770)] [[project](https://gmt-humanoid.github.io/)]
 - **Eye, Robot**: Learning to Look to Act with a BC-RL Perception-Action Loop [[paper](https://arxiv.org/pdf/2506.10968)] [[project](https://www.eyerobot.net/)]
