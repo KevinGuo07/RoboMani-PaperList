@@ -92,10 +92,18 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
+- **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️ ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
-- **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️
 
 ### 🌍 World Model in robot manipulation 
+
+- **
+- **RoboPearls**: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
+- **RoboScape**: Physics-informed Embodied World Model [[paper](https://arxiv.org/pdf/2506.23135)] [[project](https://github.com/tsinghua-fib-lab/RoboScape)] 
+- **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23126)] [[project](https://particleformer.github.io/)] 
+- **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
+- Prompting with the Future: Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
+- **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [[paper](https://arxiv.org/abs/2405.15223)] [[project](https://thuml.github.io/iVideoGPT/)] ☀️ ✅
 
 ### 🦾 Skill Learning in Robotics
 
