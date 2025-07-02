@@ -96,7 +96,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 
 ### 🌍 World Model in robot manipulation 
-
+- A Survey: Learning Embodied Intelligence from Physical Simulators and World Models [[paper](https://arxiv.org/pdf/2507.00917)] [[project](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)] 
 - **RoboScape**: Physics-informed Embodied World Model [[paper](https://arxiv.org/pdf/2506.23135)] [[project](https://github.com/tsinghua-fib-lab/RoboScape)] 
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23126)] [[project](https://particleformer.github.io/)] 
 - **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
