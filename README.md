@@ -119,6 +119,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - A very good survey and report on Simulators [[project](https://simulately.wiki)]
 - **EgoDex**: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[paper](https://arxiv.org/pdf/2505.11709)] [[project]()]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
+- **RoboArena**: Distributed Real-World Evaluation of Generalist Robot Policies [[paper](https://robo-arena.github.io/assets/roboarena-B1XSLVwD.pdf)] [[project](https://robo-arena.github.io/)]
 - **RoboCerebra**:ALarge-scaleBenchmarkfor Long-horizonRoboticManipulationEvaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)] 
 - **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://arxiv.org/pdf/2504.18904)] [[project](https://roboverseorg.github.io/)] ✅
 - **AgiBot World Colosseo**: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[paper](https://arxiv.org/pdf/2503.06669)] [[project](https://agibot-world.com/)] ☀️
