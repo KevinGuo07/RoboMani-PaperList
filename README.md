@@ -54,6 +54,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
 - **PointVLA**: Injecting the 3D World into Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
 - **Helix**:Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[project](https://www.figure.ai/news/helix)]
+- **You Only Teach Once**: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)] [[project](https://hnuzhy.github.io/projects/YOTO/)]
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)] [[project](https://tracevla.github.io/)] ☀️
 - **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[paper](https://arxiv.org/pdf/2411.19650)] [[project](https://cogact.github.io/)] ☀️ ✅
 - **GRAPE**: Generalizing Robot Policy via Preference Alignment [[paper](https://arxiv.org/pdf/2411.19309)] [[project](https://grape-vla.github.io/)] ☀️
