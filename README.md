@@ -65,6 +65,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **SimLauncher**: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training [[paper](https://arxiv.org/pdf/2507.04452)] [[project]()]
 - **RLRC**: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project]()]
 - Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
 - **GMT**:General Motion Tracking for Humanoid Whole-Body Control [[paper](https://arxiv.org/pdf/2506.14770)] [[project](https://gmt-humanoid.github.io/)]
@@ -97,6 +98,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 
 ### 🌍 World Model in robot manipulation 
+- **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
+- **DreamVLA**: AVision-Language-Action Model Dreamed with Comprehensive World Knowledge [[paper](https://arxiv.org/pdf/2507.04447)] [[project](https://zhangwenyao1.github.io/DreamVLA/)] 
 - A Survey: Learning Embodied Intelligence from Physical Simulators and World Models [[paper](https://arxiv.org/pdf/2507.00917)] [[project](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)] 
 - **RoboScape**: Physics-informed Embodied World Model [[paper](https://arxiv.org/pdf/2506.23135)] [[project](https://github.com/tsinghua-fib-lab/RoboScape)] 
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23126)] [[project](https://particleformer.github.io/)] 
