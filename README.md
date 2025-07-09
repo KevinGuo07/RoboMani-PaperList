@@ -54,6 +54,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
 - **PointVLA**: Injecting the 3D World into Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
+- **Unified Video Action Model** [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
 - **Helix**:Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[project](https://www.figure.ai/news/helix)]
 - **You Only Teach Once**: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)] [[project](https://hnuzhy.github.io/projects/YOTO/)]
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)] [[project](https://tracevla.github.io/)] ☀️
@@ -111,7 +112,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project](https://research.nvidia.com/labs/gear/flare/)] 
 - Occupancy World Model for Robots [[paper](https://arxiv.org/pdf/2505.05512)]
 - Learning 3D Persistent Embodied World Models [[paper](https://arxiv.org/pdf/2505.05495)]
-- **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [[paper](https://arxiv.org/abs/2405.15223)] [[project](https://thuml.github.io/iVideoGPT/)] ☀️ ✅
+- **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [[paper](https://arxiv.org/pdf/2405.15223)] [[project](https://thuml.github.io/iVideoGPT/)] ☀️ ✅
 
 ### 🦾 Skill Learning in Robotics
 
