@@ -28,7 +28,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🧠 Generalist Manipulation Models and Methods
 - **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding
-- **WorldVLA**: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)]
+- **WorldVLA**: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)] ☀️
 - Grounding Language Models with Semantic Digital Twins for Robotic Planning [[paper](https://arxiv.org/pdf/2506.16493)] [[project]()]
 - **Prompting with the Future**:Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
 - **RationalVLA**: A Rational Vision-Language-Action Model with Dual System [[paper](https://arxiv.org/pdf/2506.10826)] [[project](https://irpn-eai.github.io/RationalVLA/)]
@@ -49,6 +49,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **GLOVER++**: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.11865)] [[project](https://teleema.github.io/projects/GLOVER++/)]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)] ☀️
 - **GraspVLA**: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[paper](https://arxiv.org/pdf/2505.03233)] [[project](https://pku-epic.github.io/GraspVLA-web/)] ☀️
+- **NORA**: A SMALL OPEN-SOURCED GENERALIST VISION LANGUAGE ACTION MODEL FOR EMBODIED TASKS [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)] ☀️
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
