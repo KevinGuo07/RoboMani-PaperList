@@ -48,12 +48,13 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories  [[paper](https://arxiv.org/pdf/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - **GLOVER++**: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.11865)] [[project](https://teleema.github.io/projects/GLOVER++/)]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)] ☀️
-- **GraspVLA**: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[paper](https://arxiv.org/pdf/2505.03233)] [[project](https://pku-epic.github.io/GraspVLA-web/)] ☀️
 - **NORA**: A SMALL OPEN-SOURCED GENERALIST VISION LANGUAGE ACTION MODEL FOR EMBODIED TASKS [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)] ☀️
-- **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
+- **Gemini Robotics**: Bringing AI into the Physical World [[paper](https://arxiv.org/abs/2503.20020)] [[project](https://deepmind.google/models/gemini-robotics/)] ☀️
 - **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
 - **PointVLA**: Injecting the 3D World into Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
+- **GraspVLA**: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[paper](https://arxiv.org/pdf/2505.03233)] [[project](https://pku-epic.github.io/GraspVLA-web/)] ☀️
+- **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
 - **Unified Video Action Model** [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
 - **Helix**:Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[project](https://www.figure.ai/news/helix)]
 - **You Only Teach Once**: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)] [[project](https://hnuzhy.github.io/projects/YOTO/)]
