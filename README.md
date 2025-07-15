@@ -28,7 +28,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🧠 Generalist Manipulation Models and Methods
 - **TACTILE-VLA**: UNLOCKING VISION-LANGUAGE ACTION MODEL’S PHYSICAL KNOWLEDGE FOR TAC TILE GENERALIZATION [[paper](https://arxiv.org/pdf/2507.09160)] [[project]()]
-- **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding
+- **VOTE**: Vision-Language-Action Optimization with Trajectory Ensemble Voting [[paper](https://arxiv.org/pdf/2507.05116)] [[project](https://github.com/LukeLIN-web/VOTE)]
+- **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://www.arxiv.org/pdf/2507.00416)] [[project](https://mint-sjtu.github.io/Evo-VLA.io/)]
 - **WorldVLA**: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)] ☀️
 - Grounding Language Models with Semantic Digital Twins for Robotic Planning [[paper](https://arxiv.org/pdf/2506.16493)] [[project]()]
 - **Prompting with the Future**:Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
@@ -105,7 +106,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🌍 World Model in Robot Manipulation 
 - **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
-- **DreamVLA**: AVision-Language-Action Model Dreamed with Comprehensive World Knowledge [[paper](https://arxiv.org/pdf/2507.04447)] [[project](https://zhangwenyao1.github.io/DreamVLA/)] 
+- **DreamVLA**: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge [[paper](https://arxiv.org/pdf/2507.04447)] [[project](https://zhangwenyao1.github.io/DreamVLA/)] 
 - A Survey: Learning Embodied Intelligence from Physical Simulators and World Models [[paper](https://arxiv.org/pdf/2507.00917)] [[project](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)] 
 - **RoboScape**: Physics-informed Embodied World Model [[paper](https://arxiv.org/pdf/2506.23135)] [[project](https://github.com/tsinghua-fib-lab/RoboScape)] 
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23126)] [[project](https://particleformer.github.io/)] 
@@ -139,7 +140,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning [[paper](https://arxiv.org/pdf/2306.03310)] [[project](https://libero-project.github.io/main.html)] ✅
 - **DISCOVERSE**: Efficient Robot Simulation in Complex High-Fidelity Environments [[paper](https://drive.google.com/file/d/1pG8N2qBdLuqj8_wylTYgsXYGOKMhwKXB/view)] [[project](https://air-discoverse.github.io/)] ✅
 
-### 🛠️ Hardware Projects on Robotics
+### 🛠️ Hardware Projects on Robotics 
+- **Vision in Action**: Learning Active Perception from HumanDemonstrations [[paper](https://arxiv.org/pdf/2506.15666)] [[project](https://vision-in-action.github.io/)]
 - **TWIST**: Teleoperated Whole-Body Imitation System [[paper](https://arxiv.org/pdf/2505.02833)] [[project](https://yanjieze.com/TWIST/)]
 - **Berkeley Humanoid Lite**: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot [[project](https://arxiv.org/pdf/2504.17249)] [[project](https://lite.berkeley-humanoid.org/)]
 - **BEHAVIOR Robot Suite**: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [[paper](https://arxiv.org/pdf/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] ☀️ ✅
