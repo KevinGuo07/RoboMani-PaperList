@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **TACTILE-VLA**: UNLOCKING VISION-LANGUAGE ACTION MODEL’S PHYSICAL KNOWLEDGE FOR TAC TILE GENERALIZATION [[paper](https://arxiv.org/pdf/2507.09160)] [[project]()]
 - **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding
 - **WorldVLA**: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)] ☀️
 - Grounding Language Models with Semantic Digital Twins for Robotic Planning [[paper](https://arxiv.org/pdf/2506.16493)] [[project]()]
