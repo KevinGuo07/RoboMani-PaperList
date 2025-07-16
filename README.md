@@ -30,6 +30,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **TACTILE-VLA**: UNLOCKING VISION-LANGUAGE ACTION MODEL’S PHYSICAL KNOWLEDGE FOR TAC TILE GENERALIZATION [[paper](https://arxiv.org/pdf/2507.09160)] [[project]()]
 - **VOTE**: Vision-Language-Action Optimization with Trajectory Ensemble Voting [[paper](https://arxiv.org/pdf/2507.05116)] [[project](https://github.com/LukeLIN-web/VOTE)]
 - **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://www.arxiv.org/pdf/2507.00416)] [[project](https://mint-sjtu.github.io/Evo-VLA.io/)]
+- **TRIVLA**: A TRIPLE-SYSTEM-BASED UNIFIED VISION-LANGUAGE-ACTION MODEL FOR GENERAL ROBOT CONTROL [[paper](https://arxiv.org/pdf/2507.01424)] [[project](https://zhenyangliu.github.io/TriVLA/)]
 - **WorldVLA**: Towards Autoregressive Action World Model [[paper](https://arxiv.org/pdf/2506.21539)] [[project](https://github.com/alibaba-damo-academy/WorldVLA)] ☀️
 - Grounding Language Models with Semantic Digital Twins for Robotic Planning [[paper](https://arxiv.org/pdf/2506.16493)] [[project]()]
 - **Prompting with the Future**:Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
