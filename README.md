@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **VITA**: VISION-TO-ACTION FLOW MATCHING POLICY [[paper](https://arxiv.org/pdf/2507.13231)] [[project](https://ucd-dare.github.io/VITA/)]
 - **TACTILE-VLA**: UNLOCKING VISION-LANGUAGE ACTION MODEL’S PHYSICAL KNOWLEDGE FOR TAC TILE GENERALIZATION [[paper](https://arxiv.org/pdf/2507.09160)] [[project]()]
 - **VOTE**: Vision-Language-Action Optimization with Trajectory Ensemble Voting [[paper](https://arxiv.org/pdf/2507.05116)] [[project](https://github.com/LukeLIN-web/VOTE)]
 - **Evo-0**: Vision-Language-Action Model with Implicit Spatial Understanding [[paper](https://www.arxiv.org/pdf/2507.00416)] [[project](https://mint-sjtu.github.io/Evo-VLA.io/)]
