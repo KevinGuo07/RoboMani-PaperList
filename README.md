@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **EgoVLA**: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 - **ThinkAct**: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning
 - **GR-3** Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/en/GR3)]
 - **VITA**: VISION-TO-ACTION FLOW MATCHING POLICY [[paper](https://arxiv.org/pdf/2507.13231)] [[project](https://ucd-dare.github.io/VITA/)]
