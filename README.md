@@ -116,6 +116,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 
 ### 🌍 World Model in Robot Manipulation 
+- Latent Policy Steering with Embodiment-Agnostic Pretrained World Models [[paper](https://arxiv.org/pdf/2507.13340)] [[project]()]
+- **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
 - **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
 - **DreamVLA**: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge [[paper](https://arxiv.org/pdf/2507.04447)] [[project](https://zhangwenyao1.github.io/DreamVLA/)] 
 - A Survey: Learning Embodied Intelligence from Physical Simulators and World Models [[paper](https://arxiv.org/pdf/2507.00917)] [[project](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)] 
