@@ -110,6 +110,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **IN–RIL**: Interleaved Reinforement and Imitation Learning for Policy Fine-tuning [[paper](https://arxiv.org/pdf/2505.10442)] [[project](https://github.com/ucd-dare/IN-RIL)]
 - **MoRE**: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models[[paper](https://arxiv.org/pdf/2503.08007)] [[project]()]
 - **ConRFT**: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy [[paper](https://arxiv.org/pdf/2502.05450)][[code](https://github.com/cccedric/conrft)] ☀️
+- Flow Q-Learning [[paper](https://arxiv.org/pdf/2502.02538)][[project](https://seohong.me/projects/fql/)]
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
 - **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️ ✅
