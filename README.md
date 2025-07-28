@@ -77,7 +77,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
-- Reinforcement Learning for Flow-Matching Policies [[paper](https://arxiv.org/pdf/2507.15073v1)] 
+- Reinforcement Learning for Flow-Matching Policies [[paper](https://arxiv.org/pdf/2507.15073v1)]
+- **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
 - **EXPO**: Stable Reinforcement Learning with Expressive Policies [[paper](https://arxiv.org/pdf/2507.07986)] 
 - Asynchronous multi-agent deep reinforcement learning under partial observability [[paper](https://journals.sagepub.com/doi/full/10.1177/02783649241306124)]
 - Reinforcement Learning with Action Chunking [[paper](https://www.alphaxiv.org/abs/2507.07969v1)] [[project](https://github.com/ColinQiyangLi/qc)]
