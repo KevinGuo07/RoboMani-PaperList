@@ -127,10 +127,11 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **ParticleFormer**: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23126)] [[project](https://particleformer.github.io/)] 
 - **World4Omni**: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation [[paper](https://arxiv.org/pdf/2506.23919)] [[project](https://world4omni.github.io/)]
 - **RoboPearls**: Editable Video Simulation for Robot Manipulation [[paper](https://arxiv.org/pdf/2506.22756)] [[project](https://tangtaogo.github.io/RoboPearls/)] 
-- Prompting with the Future: Open-WorldModel PredictiveControlwithInteractiveDigitalTwins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
+- Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins [[paper](https://arxiv.org/pdf/2506.13761)] [[project](https://prompting-with-the-future.github.io/)]
 - **FLARE**: Robot Learning with Implicit World Modeling [[paper](https://arxiv.org/pdf/2505.15659)] [[project](https://research.nvidia.com/labs/gear/flare/)] 
 - Occupancy World Model for Robots [[paper](https://arxiv.org/pdf/2505.05512)]
 - Learning 3D Persistent Embodied World Models [[paper](https://arxiv.org/pdf/2505.05495)]
+- **DYNAMICAL DIFFUSION**: LEARNING TEMPORAL DYNAMICS WITH DIFFUSION MODELS [[paper](https://arxiv.org/pdf/2503.00951)] [[project](https://github.com/thuml/dynamical-diffusion)]
 - **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [[paper](https://arxiv.org/pdf/2405.15223)] [[project](https://thuml.github.io/iVideoGPT/)] ☀️ ✅
 
 ### 🦾 Skill Learning in Robotics
