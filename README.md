@@ -113,7 +113,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **Rethinking Latent Redundancy in Behavior Cloning**: An Information Bottleneck Approach for Robot Manipulation [[paper](https://arxiv.org/pdf/2502.02853)][[project](https://baishuanghao.github.io/BC-IB.github.io/)] ☀️
 - Flow Q-Learning [[paper](https://arxiv.org/pdf/2502.02538)][[project](https://seohong.me/projects/fql/)]
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [[paper](https://arxiv.org/pdf/2501.16664)] [[project]()] 
-- **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️ 
+- **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️
+- Vision Language Models are In-Context Value Learners [[paper](https://arxiv.org/pdf/2411.04549)] [[project](https://generative-value-learning.github.io/)] ☀️
 - **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️ ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 
