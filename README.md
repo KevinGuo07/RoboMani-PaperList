@@ -78,6 +78,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- Compute-Optimal Scaling for Value-Based Deep RL [[paper](https://arxiv.org/pdf/2508.14881)]
 - **CO-RFT**: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning [[paper](https://arxiv.org/pdf/2508.02219)]
 - **ROVER**: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks [[paper](https://arxiv.org/pdf/2508.01943)] [[project](https://rover-vlm.github.io/)]
 - Reinforcement Learning for Flow-Matching Policies [[paper](https://arxiv.org/pdf/2507.15073v1)]
