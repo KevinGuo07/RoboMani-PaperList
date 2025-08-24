@@ -27,6 +27,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **GeoVLA**: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA//)]
+- **GraphCoT-VLA**: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions [[paper](https://arxiv.org/pdf/2508.07650)]
 - **InstructVLA**: Vision-Language-Action Instruction Tuning: From Understanding to Manipulation [[paper](https://arxiv.org/pdf/2507.17520)] [[project](https://yangs03.github.io/InstructVLA_Home/)]
 - **Being-H0**: Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[paper](https://arxiv.org/pdf/2507.15597)] [[project](https://beingbeyond.github.io/Being-H0/)]
 - **EgoVLA**: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
@@ -142,6 +144,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ### 🦾 Skill Learning in Robotics
 
 ### 📦 Data and Benchmarks
+- **Shortcut Learning in Generalist Robot Policies**: The Role of Dataset Diversity and Fragmentation [[paper](https://arxiv.org/pdf/2508.06426)]
 - **FreeTacMan**: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2506.01941)] [[project](https://freetacmanblog.github.io/)] 
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] [[project]()] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
