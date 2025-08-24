@@ -27,6 +27,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **CAST**: Counterfactual Labels Improve Instruction Following inVision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.13446)] [[project](https://cast-vla.github.io/)]
+- **Grounding Actions in Camera Space**: Observation-CentricVision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)]
 - **GeoVLA**: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA//)]
 - **GraphCoT-VLA**: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions [[paper](https://arxiv.org/pdf/2508.07650)]
 - **InstructVLA**: Vision-Language-Action Instruction Tuning: From Understanding to Manipulation [[paper](https://arxiv.org/pdf/2507.17520)] [[project](https://yangs03.github.io/InstructVLA_Home/)]
