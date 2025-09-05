@@ -85,6 +85,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
 - **RLinf**: Reinforcement Learning Infrastructure for Agentic AI [[paper](https://rlinf.readthedocs.io/en/latest/)] [[project](https://github.com/RLinf/RLinf)]
 - Compute-Optimal Scaling for Value-Based Deep RL [[paper](https://arxiv.org/pdf/2508.14881)]
+- **Embodied-R1**: Reinforced Embodied Reasoningfor General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)]
 - **CO-RFT**: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning [[paper](https://arxiv.org/pdf/2508.02219)]
 - **ROVER**: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks [[paper](https://arxiv.org/pdf/2508.01943)] [[project](https://rover-vlm.github.io/)]
 - Reinforcement Learning for Flow-Matching Policies [[paper](https://arxiv.org/pdf/2507.15073v1)]
@@ -129,6 +130,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
 
 ### 🌍 World Model in Robot Manipulation 
+- **Learning Primitive Embodied World Models**: Towards Scalable Robotic Learning [[paper](https://arxiv.org/pdf/2508.20840)] [[project](https://qiaosun22.github.io/PrimitiveWorld/)]
 - Latent Policy Steering with Embodiment-Agnostic Pretrained World Models [[paper](https://arxiv.org/pdf/2507.13340)] [[project]()]
 - **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
 - **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
