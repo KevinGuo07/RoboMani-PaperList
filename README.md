@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project]()]
 - **CAST**: Counterfactual Labels Improve Instruction Following inVision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.13446)] [[project](https://cast-vla.github.io/)]
 - **Grounding Actions in Camera Space**: Observation-CentricVision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)]
 - **GeoVLA**: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA//)]
@@ -82,6 +83,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **RLinf**: Reinforcement Learning Infrastructure for Agentic AI [[paper](https://rlinf.readthedocs.io/en/latest/)] [[project](https://github.com/RLinf/RLinf)]
 - Compute-Optimal Scaling for Value-Based Deep RL [[paper](https://arxiv.org/pdf/2508.14881)]
 - **CO-RFT**: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning [[paper](https://arxiv.org/pdf/2508.02219)]
 - **ROVER**: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks [[paper](https://arxiv.org/pdf/2508.01943)] [[project](https://rover-vlm.github.io/)]
