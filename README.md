@@ -17,7 +17,7 @@ This repository collects the latest and influential papers and resources related
 - [Hardware Projects on Robotics](#-hardware-projects-on-robotics) 
 - [Interdisciplinary](#-interdisciplinary)
 
-The following publications are ordered by time, with the most recent listed first.
+The following publications are ordered by time, with the most recent at the top.
 
 Papers with **open-sourced implementations** are marked with a ☀️  
 Papers with **real-world performance** reproduced by us are marked with a ✅
@@ -51,7 +51,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **PDFactor**: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf)]
 - **FlowRAM**: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf)]
 - Real-Time Execution of Action Chunking Flow Policies [[paper](https://www.physicalintelligence.company/download/real_time_chunking.pdf)] [[project]()]
-- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️
+- **SmolVLA**: A Vision-Language-Action Model for Affordable and Efficient Robotics [[paper](https://arxiv.org/pdf/2506.01844)] [[project](https://huggingface.co/lerobot/smolvla_base)] ☀️ ✅
 - Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better [[paper](https://arxiv.org/pdf/2505.23705)] [[project](https://www.physicalintelligence.company/research/knowledge_insulation)]
 - **ChatVLA-2**: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge [[paper](https://arxiv.org/pdf/2505.21906)] [[project](https://chatvla-2.github.io/)]
 - **ForceVLA**: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2505.22159)] [[project](https://sites.google.com/view/forcevla2025/)]
@@ -62,9 +62,9 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **DreamGen**: Unlocking Generalization in Robot Learning through Neural Trajectories  [[paper](https://arxiv.org/pdf/2505.12705)] [[project](https://research.nvidia.com/labs/gear/dreamgen/)]
 - **GLOVER++**: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation [[paper](https://arxiv.org/pdf/2505.11865)] [[project](https://teleema.github.io/projects/GLOVER++/)]
 - **UniVLA**: Learning to Act Anywhere with Task-centric Latent Action [[paper](https://arxiv.org/pdf/2505.06111)] [[project](https://github.com/OpenDriveLab/UniVLA)] ☀️
-- **NORA**: A SMALL OPEN-SOURCED GENERALIST VISION LANGUAGE ACTION MODEL FOR EMBODIED TASKS [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)] ☀️
+- **NORA**: A SMALL OPEN-SOURCED GENERALIST VISION LANGUAGE ACTION MODEL FOR EMBODIED TASKS [[paper](https://arxiv.org/pdf/2504.19854)] [[project](https://declare-lab.github.io/nora)] ☀️ ✅
 - **Gemini Robotics**: Bringing AI into the Physical World [[paper](https://arxiv.org/abs/2503.20020)] [[project](https://deepmind.google/models/gemini-robotics/)] ☀️
-- **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)]
+- **GR00T N1**: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://developer.nvidia.com/isaac/gr00t)] ☀️ ✅
 - **π0.5**: a VLA with Open-World Generalization [[paper](https://www.physicalintelligence.company/download/pi05.pdf)] [[project](https://www.physicalintelligence.company/blog/pi05)] ☀️
 - **PointVLA**: Injecting the 3D World into Vision-Language-Action Model [[paper](https://arxiv.org/pdf/2503.07511)] [[project](https://pointvla.github.io/)]
 - **GraspVLA**: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[paper](https://arxiv.org/pdf/2505.03233)] [[project](https://pku-epic.github.io/GraspVLA-web/)] ☀️
@@ -92,7 +92,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
 - **EXPO**: Stable Reinforcement Learning with Expressive Policies [[paper](https://arxiv.org/pdf/2507.07986)] 
 - Asynchronous multi-agent deep reinforcement learning under partial observability [[paper](https://journals.sagepub.com/doi/full/10.1177/02783649241306124)]
-- Reinforcement Learning with Action Chunking [[paper](https://www.alphaxiv.org/abs/2507.07969v1)] [[project](https://github.com/ColinQiyangLi/qc)]
+- Reinforcement Learning with Action Chunking [[paper](https://www.alphaxiv.org/abs/2507.07969v1)] [[project](https://github.com/ColinQiyangLi/qc)] ☀️ ✅
 - **SimLauncher**: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training [[paper](https://arxiv.org/pdf/2507.04452)] [[project]()]
 - **RLRC**: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2506.17639)] [[project]()]
 - Steering Your Diffusion Policy with Latent Space Reinforcement Learning [[paper](https://arxiv.org/pdf/2506.15799)] [[project](https://diffusion-steering.github.io/)]
@@ -109,7 +109,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()]
 - **GenPO**: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18763)] [[project](https://arxiv.org/html/2505.18763v1)]
 - **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
-- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️
+- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️ ✅
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
 - **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] ☀️ 
@@ -127,10 +127,11 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning [[paper](https://arxiv.org/pdf/2412.09858)] [[project](https://generalist-distillation.github.io/)] ☀️
 - Vision Language Models are In-Context Value Learners [[paper](https://arxiv.org/pdf/2411.04549)] [[project](https://generative-value-learning.github.io/)] ☀️
 - **Hil-serl**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/pdf/2410.21845)] [[project](https://hil-serl.github.io/)] ☀️ ✅
-- **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️
+- **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ ✅
 
 ### 🌍 World Model in Robot Manipulation 
 - **Learning Primitive Embodied World Models**: Towards Scalable Robotic Learning [[paper](https://arxiv.org/pdf/2508.20840)] [[project](https://qiaosun22.github.io/PrimitiveWorld/)]
+- **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation [[paper](https://arxiv.org/abs/2508.17600)] [[project](https://gaussian-world-model.github.io/)] ✅
 - Latent Policy Steering with Embodiment-Agnostic Pretrained World Models [[paper](https://arxiv.org/pdf/2507.13340)] [[project]()]
 - **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
 - **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
@@ -160,6 +161,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - A very good survey and report on Simulators [[project](https://simulately.wiki)]
 - **EgoDex**: Learning Dexterous Manipulation from Large-Scale Egocentric Video [[paper](https://arxiv.org/pdf/2505.11709)] [[project]()]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Model [[paper](https://arxiv.org/pdf/2310.08864)] [[project](https://robotics-transformer-x.github.io/)] ✅
+- **GENMANIP**: LLM-driven Simulation for Generalizable Instruction-Following Manipulation [[paper](https://arxiv.org/pdf/2506.10966)] [[project](https://genmanip.axi404.top/)] ✅
 - **RoboArena**: Distributed Real-World Evaluation of Generalist Robot Policies [[paper](https://robo-arena.github.io/assets/roboarena-B1XSLVwD.pdf)] [[project](https://robo-arena.github.io/)]
 - **RoboCerebra**:ALarge-scaleBenchmarkfor Long-horizonRoboticManipulationEvaluation [[paper](https://arxiv.org/pdf/2506.06677)] [[project](https://robocerebra.github.io/)] 
 - **RoboVerse**: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[paper](https://arxiv.org/pdf/2504.18904)] [[project](https://roboverseorg.github.io/)] ✅
