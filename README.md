@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **RaC**: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction [[paper](https://arxiv.org/pdf/2509.07953)] [[project](https://rac-scaling-robot.github.io/)]
 - **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project]()]
 - **CAST**: Counterfactual Labels Improve Instruction Following inVision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.13446)] [[project](https://cast-vla.github.io/)]
 - **Grounding Actions in Camera Space**: Observation-CentricVision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)]
