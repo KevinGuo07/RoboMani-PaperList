@@ -110,7 +110,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - Learning to Reason without External Rewards [[paper](https://arxiv.org/pdf/2505.19590)] [[project]()]
 - **GenPO**: Generative Diffusion Models Meet On-Policy Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18763)] [[project](https://arxiv.org/html/2505.18763v1)]
 - **VLA-RL**: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.18719)][[code](https://github.com/GuanxingLu/vlarl)] ☀️ ✅
-- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper]()][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️ ✅
+- **SimpleVLA-RL**: Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [[paper](https://www.alphaxiv.org/abs/2509.09674)][[code](https://github.com/PRIME-RL/SimpleVLA-RL)] ☀️ ✅
 - **TeViR**: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning [[paper](https://arxiv.org/pdf/2505.19769)] [[project]()] 
 - **Genie Centurion**: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance [[paper](https://arxiv.org/pdf/2505.18793)] [[project](https://genie-centurion.github.io/)] 
 - **RIPT-VLA**: Interactive Post-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2505.17016)] [[project](https://ariostgx.github.io/ript_vla/)] ☀️ 
