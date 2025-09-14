@@ -71,6 +71,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **GraspVLA**: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data [[paper](https://arxiv.org/pdf/2505.03233)] [[project](https://pku-epic.github.io/GraspVLA-web/)] ☀️
 - **Reactive Diffusion Policy**: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[paper](https://arxiv.org/pdf/2503.02881)] [[project](https://reactive-diffusion-policy.github.io/)] ☀️
 - **Unified Video Action Model** [[paper](https://arxiv.org/pdf/2503.00200)] [[project](https://unified-video-action-model.github.io/)]
+- **OpenVLA-OFT**: Fine-Tuning Vision-Language-Action Models:Optimizing Speed and Success [[paper](https://arxiv.org/pdf/2502.19645)] [[project](https://openvla-oft.github.io)]
 - **Helix**:Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[project](https://www.figure.ai/news/helix)]
 - **You Only Teach Once**: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [[paper](https://arxiv.org/pdf/2501.14208)] [[project](https://hnuzhy.github.io/projects/YOTO/)]
 - **TraceVLA**: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies [[paper](https://arxiv.org/pdf/2412.10345)] [[project](https://tracevla.github.io/)] ☀️
