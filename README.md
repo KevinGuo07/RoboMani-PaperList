@@ -133,6 +133,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ ✅
 
 ### 🌍 World Model in Robot Manipulation 
+- **OmniWorld**: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling [[paper](https://arxiv.org/pdf/2509.12201)] [[project](https://yangzhou24.github.io/OmniWorld/)]
+- World Modeling with Probabilistic Structure Integration [[paper](https://arxiv.org/pdf/2509.09737)]
 - Planning with Reasoning using Vision Language World Model [[paper](https://arxiv.org/pdf/2509.02722)]
 - **Learning Primitive Embodied World Models**: Towards Scalable Robotic Learning [[paper](https://arxiv.org/pdf/2508.20840)] [[project](https://qiaosun22.github.io/PrimitiveWorld/)]
 - **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation [[paper](https://arxiv.org/abs/2508.17600)] [[project](https://gaussian-world-model.github.io/)] ✅
