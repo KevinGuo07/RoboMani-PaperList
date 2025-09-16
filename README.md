@@ -27,6 +27,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **F1**: A VISION-LANGUAGE-ACTION MODEL BRIDGING UNDERSTANDING AND GENERATION TO ACTIONS [[paper](https://arxiv.org/pdf/2509.06951v2)] [[project](https://aopolin-lv.github.io/F1-VLA/)]
 - **RaC**: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction [[paper](https://arxiv.org/pdf/2509.07953)] [[project](https://rac-scaling-robot.github.io/)]
 - **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project]()]
 - **CAST**: Counterfactual Labels Improve Instruction Following inVision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.13446)] [[project](https://cast-vla.github.io/)]
@@ -132,6 +133,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ ✅
 
 ### 🌍 World Model in Robot Manipulation 
+- Planning with Reasoning using Vision Language World Model [[paper](https://arxiv.org/pdf/2509.02722)]
 - **Learning Primitive Embodied World Models**: Towards Scalable Robotic Learning [[paper](https://arxiv.org/pdf/2508.20840)] [[project](https://qiaosun22.github.io/PrimitiveWorld/)]
 - **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation [[paper](https://arxiv.org/abs/2508.17600)] [[project](https://gaussian-world-model.github.io/)] ✅
 - Latent Policy Steering with Embodiment-Agnostic Pretrained World Models [[paper](https://arxiv.org/pdf/2507.13340)] [[project]()]
