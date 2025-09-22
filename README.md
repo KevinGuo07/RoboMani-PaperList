@@ -133,13 +133,16 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ ✅
 
 ### 🌍 World Model in Robot Manipulation 
+- **
 - **OmniWorld**: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling [[paper](https://arxiv.org/pdf/2509.12201)] [[project](https://yangzhou24.github.io/OmniWorld/)]
 - World Modeling with Probabilistic Structure Integration [[paper](https://arxiv.org/pdf/2509.09737)]
 - Planning with Reasoning using Vision Language World Model [[paper](https://arxiv.org/pdf/2509.02722)]
 - **Learning Primitive Embodied World Models**: Towards Scalable Robotic Learning [[paper](https://arxiv.org/pdf/2508.20840)] [[project](https://qiaosun22.github.io/PrimitiveWorld/)]
 - **GWM**: Towards Scalable Gaussian World Models for Robotic Manipulation [[paper](https://arxiv.org/abs/2508.17600)] [[project](https://gaussian-world-model.github.io/)] ✅
 - Latent Policy Steering with Embodiment-Agnostic Pretrained World Models [[paper](https://arxiv.org/pdf/2507.13340)] [[project]()]
+- Test-Time Scaling with World Models for Spatial Reasoning [[paper](https://arxiv.org/pdf/2507.12508)] [[project](https://umass-embodied-agi.github.io/MindJourney/)]
 - **FOUNDER**: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making [[paper](https://arxiv.org/pdf/2507.12496)] [[project](https://sites.google.com/view/founder-rl)]
+- **Martian World Models**: Controllable Video Synthesis with Physically Accurate 3D Reconstructions [[paper](https://arxiv.org/pdf/2507.07978)] [[project](https://marsgenai.github.io/)]
 - **EmbodieDreamer**: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling [[paper](https://arxiv.org/pdf/2507.05198)] [[project](https://embodiedreamer.github.io/)] 
 - **DreamVLA**: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge [[paper](https://arxiv.org/pdf/2507.04447)] [[project](https://zhangwenyao1.github.io/DreamVLA/)] 
 - A Survey: Learning Embodied Intelligence from Physical Simulators and World Models [[paper](https://arxiv.org/pdf/2507.00917)] [[project](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)] 
