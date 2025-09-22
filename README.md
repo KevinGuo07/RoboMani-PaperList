@@ -27,6 +27,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **WALL-OSS**: Igniting VLMs toward the Embodied Space [[paper](https://arxiv.org/pdf/2509.11766)] [[project](https://github.com/X-Square-Robot/wall-x)]
+- **TA-VLA**: Elucidating the Design Space of Torque-aware Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2509.07962)] [[project](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)]
 - **F1**: A VISION-LANGUAGE-ACTION MODEL BRIDGING UNDERSTANDING AND GENERATION TO ACTIONS [[paper](https://arxiv.org/pdf/2509.06951v2)] [[project](https://aopolin-lv.github.io/F1-VLA/)]
 - **RaC**: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction [[paper](https://arxiv.org/pdf/2509.07953)] [[project](https://rac-scaling-robot.github.io/)]
 - **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)] [[project]()]
