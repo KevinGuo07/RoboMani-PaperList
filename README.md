@@ -20,8 +20,8 @@ This repository collects the latest and influential papers and resources related
 The following publications are ordered by time, with the most recent at the top.
 
 Papers with **open-sourced implementations or code** are marked with a ☀️  
-Papers with **real-world performance** reproduced by us are marked with a ✅
-Works claimed with **code coming soon** are marked with a 🧐
+Papers with **real-world performance** reproduced by us are marked with a ✅  
+Works claimed with **code coming soon** are marked with a 🧐  
 
 ---
 
