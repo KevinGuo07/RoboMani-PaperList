@@ -138,6 +138,7 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 
 ### 🌍 World Model in Robot Manipulation 
 - **World4RL**: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.19080)] [[project](https://world4rl.github.io/)]
+- Latent Action Pretraining Through World Modeling [[paper](https://arxiv.org/pdf/2509.18428)] [[project]()]
 - **OmniWorld**: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling [[paper](https://arxiv.org/pdf/2509.12201)] [[project](https://yangzhou24.github.io/OmniWorld/)]
 - World Modeling with Probabilistic Structure Integration [[paper](https://arxiv.org/pdf/2509.09737)]
 - Planning with Reasoning using Vision Language World Model [[paper](https://arxiv.org/pdf/2509.02722)]
