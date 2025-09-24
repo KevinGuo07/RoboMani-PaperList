@@ -88,6 +88,8 @@ Papers with **real-world performance** reproduced by us are marked with a ✅
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- Residual Off-Policy RL for Finetuning Behavior Cloning Policies [[paper](https://arxiv.org/pdf/2509.19301)] [[project](https://residual-offpolicy-rl.github.io//)]
+- **SOE**: Sample-Efficient Robot Policy Self-Improvementvia On-Manifold Exploration [[paper](https://arxiv.org/pdf/2509.19292)] [[project](https://ericjin2002.github.io/SOE/)]
 - **RLinf**: Reinforcement Learning Infrastructure for Agentic AI [[paper](https://rlinf.readthedocs.io/en/latest/)] [[project](https://github.com/RLinf/RLinf)]
 - Compute-Optimal Scaling for Value-Based Deep RL [[paper](https://arxiv.org/pdf/2508.14881)]
 - **Embodied-R1**: Reinforced Embodied Reasoningfor General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)]
