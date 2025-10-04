@@ -30,6 +30,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 ### 🧠 Generalist Manipulation Models and Methods
 - **MLA**: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)]
 - Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA [[paper](https://arxiv.org/pdf/2509.26251)]
+- SELF-IMPROVING EMBODIED FOUNDATION MODELS [[paper](https://arxiv.org/pdf/2509.15155)] [[project](https://self-improving-efms.github.io/)]
 - The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[paper](https://arxiv.org/pdf/2509.12594?)] [[project](https://liauto-research.github.io/LightVLA/)]
 - Enhancing Generalization in Vision–Language–Action Models by Preserving Pretrained Representations [[paper](https://arxiv.org/pdf/2509.11417?)] [[project](https://gen-vla.github.io/)] 🧐
 - **WALL-OSS**: Igniting VLMs toward the Embodied Space [[paper](https://arxiv.org/pdf/2509.11766)] [[project](https://github.com/X-Square-Robot/wall-x)] ☀️  
