@@ -28,10 +28,15 @@ Works claimed with **code coming soon** are marked with a 🧐
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **MLA**: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)]
+- Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA [[paper](https://arxiv.org/pdf/2509.26251)]
+- The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning [[paper](https://arxiv.org/pdf/2509.12594?)] [[project](https://liauto-research.github.io/LightVLA/)]
+- Enhancing Generalization in Vision–Language–Action Models by Preserving Pretrained Representations [[paper](https://arxiv.org/pdf/2509.11417?)] [[project](https://gen-vla.github.io/)] 🧐
 - **WALL-OSS**: Igniting VLMs toward the Embodied Space [[paper](https://arxiv.org/pdf/2509.11766)] [[project](https://github.com/X-Square-Robot/wall-x)] ☀️  
 - **TA-VLA**: Elucidating the Design Space of Torque-aware Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2509.07962)] [[project](https://zzongzheng0918.github.io/Torque-Aware-VLA.github.io/)] 🧐
 - **F1**: A VISION-LANGUAGE-ACTION MODEL BRIDGING UNDERSTANDING AND GENERATION TO ACTIONS [[paper](https://arxiv.org/pdf/2509.06951v2)] [[project](https://aopolin-lv.github.io/F1-VLA/)] ☀️  
 - **RaC**: Robot Learning for Long-Horizon Tasks by Scaling Recovery and Correction [[paper](https://arxiv.org/pdf/2509.07953)] [[project](https://rac-scaling-robot.github.io/)] 🧐
+- **SpecPrune-VLA**: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning [[paper](https://arxiv.org/pdf/2509.05614)]
 - **FlowVLA**: Thinking in Motion with a Visual Chain of Thought [[paper](https://arxiv.org/pdf/2508.18269)]
 - **CAST**: Counterfactual Labels Improve Instruction Following inVision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.13446)] [[project](https://cast-vla.github.io/)] ☀️
 - **Grounding Actions in Camera Space**: Observation-CentricVision-Language-Action Policy [[paper](https://arxiv.org/pdf/2508.13103)]
@@ -89,6 +94,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **DEEPSEARCH**: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH [[paper](https://arxiv.org/pdf/2509.25454)] [[project](https://huggingface.co/fangwu97/DeepSearch-1.5B)] ☀️
 - Residual Off-Policy RL for Finetuning Behavior Cloning Policies [[paper](https://arxiv.org/pdf/2509.19301)] [[project](https://residual-offpolicy-rl.github.io//)] 🧐
 - **SOE**: Sample-Efficient Robot Policy Self-Improvementvia On-Manifold Exploration [[paper](https://arxiv.org/pdf/2509.19292)] [[project](https://ericjin2002.github.io/SOE/)] 🧐
 - **RLinf**: Reinforcement Learning Infrastructure for Agentic AI [[paper](https://rlinf.readthedocs.io/en/latest/)] [[project](https://github.com/RLinf/RLinf)] ☀️
