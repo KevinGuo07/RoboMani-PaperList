@@ -99,6 +99,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **DEEPSEARCH**: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH [[paper](https://arxiv.org/pdf/2509.25454)] [[project](https://huggingface.co/fangwu97/DeepSearch-1.5B)] ☀️
 - Residual Off-Policy RL for Finetuning Behavior Cloning Policies [[paper](https://arxiv.org/pdf/2509.19301)] [[project](https://residual-offpolicy-rl.github.io//)] 🧐
 - **SOE**: Sample-Efficient Robot Policy Self-Improvementvia On-Manifold Exploration [[paper](https://arxiv.org/pdf/2509.19292)] [[project](https://ericjin2002.github.io/SOE/)] 🧐
+- SELF-IMPROVING EMBODIED FOUNDATION MODELS [[paper](https://arxiv.org/pdf/2509.15155)] [[project](https://self-improving-efms.github.io/)]
 - **RLinf**: Reinforcement Learning Infrastructure for Agentic AI [[paper](https://rlinf.readthedocs.io/en/latest/)] [[project](https://github.com/RLinf/RLinf)] ☀️
 - Compute-Optimal Scaling for Value-Based Deep RL [[paper](https://arxiv.org/pdf/2508.14881)]
 - **Embodied-R1**: Reinforced Embodied Reasoningfor General Robotic Manipulation [[paper](https://arxiv.org/pdf/2508.13998)] [[project](https://embodied-r1.github.io/)] ☀️
