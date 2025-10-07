@@ -28,6 +28,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- **EgoBridge**: Domain Adaptation for Generalizable Imitation from Egocentric Human Data  [[paper](https://arxiv.org/pdf/2509.19626)] [[project](https://ego-bridge.github.io/)] 🧐 
 - **MLA**: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)]
 - Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA [[paper](https://arxiv.org/pdf/2509.26251)]
 - SELF-IMPROVING EMBODIED FOUNDATION MODELS [[paper](https://arxiv.org/pdf/2509.15155)] [[project](https://self-improving-efms.github.io/)]
