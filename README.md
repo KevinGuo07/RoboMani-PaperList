@@ -176,7 +176,8 @@ Works claimed with **code coming soon** are marked with a 🧐
 ### 🦾 Skill Learning in Robotics
 
 ### 📦 Data and Benchmarks
-- **Shortcut Learning in Generalist Robot Policies**: The Role of Dataset Diversity and Fragmentation [[paper](https://arxiv.org/pdf/2508.06426)]
+- Constraint-Preserving Data Generation for Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2508.03944)] [[project](https://cp-gen.github.io/)] ☀️
+- **Shortcut Learning in Generalist Robot Policies**: The Role of Dataset Diversity and Fragmentation [[paper](https://arxiv.org/pdf/2508.06426)] ☀️
 - **FreeTacMan**: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation [[paper](https://arxiv.org/pdf/2506.01941)] [[project](https://freetacmanblog.github.io/)] ☀️
 - **Guiding Data Collection**: via Factored Scaling Curves [[paper](https://arxiv.org/pdf/2505.07728)] 
 - **DemoGen**: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [[paper](https://arxiv.org/pdf/2502.16932)] [[project](https://demo-generation.github.io/)] ☀️
