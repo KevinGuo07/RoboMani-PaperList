@@ -148,6 +148,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning [[paper](https://arxiv.org/pdf/2401.16013)] [[project](https://serl-robot.github.io/)] ☀️ ✅
 
 ### 🌍 World Model in Robot Manipulation 
+- **Ctrl-World**: A Controllable Generative World Model for Robot Manipulation [[paper](https://arxiv.org/abs/2510.10125)] [[project](https://ctrl-world.github.io/)]
 - **World4RL**: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.19080)] [[project](https://world4rl.github.io/)]
 - Latent Action Pretraining Through World Modeling [[paper](https://arxiv.org/pdf/2509.18428)]
 - **OmniWorld**: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling [[paper](https://arxiv.org/pdf/2509.12201)] [[project](https://yangzhou24.github.io/OmniWorld/)] ☀️
