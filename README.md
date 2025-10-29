@@ -97,6 +97,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **RL-100**: Performant Robotic Manipulation with Real-World Reinforcement Learning [[paper](https://arxiv.org/pdf/2510.14830)] [[project](https://lei-kun.github.io/RL-100/)] 🧐
 - **SARM**: STAGE-AWARE REWARD MODELING FOR LONG HORIZON ROBOT MANIPULATION [[paper](https://arxiv.org/pdf/2509.25358)] [[project](https://qianzhong-chen.github.io/sarm.github.io/)] 🧐
 - **DEEPSEARCH**: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH [[paper](https://arxiv.org/pdf/2509.25454)] [[project](https://huggingface.co/fangwu97/DeepSearch-1.5B)] ☀️
 - Residual Off-Policy RL for Finetuning Behavior Cloning Policies [[paper](https://arxiv.org/pdf/2509.19301)] [[project](https://residual-offpolicy-rl.github.io//)] 🧐
