@@ -28,6 +28,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
+- Running VLAs at Real-time Speed  [[paper](https://arxiv.org/pdf/2510.26742)] [[project](https://github.com/Dexmal/realtime-vla)] ☀️
 - **VLA-0**: Building State-of-the-Art VLAs with Zero Modification  [[paper](https://arxiv.org/pdf/2510.13054v1)] [[project](https://vla0.github.io/)] ☀️  
 - **EgoBridge**: Domain Adaptation for Generalizable Imitation from Egocentric Human Data  [[paper](https://arxiv.org/pdf/2509.19626)] [[project](https://ego-bridge.github.io/)] 🧐 
 - **MLA**: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)]
@@ -97,6 +98,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations [[paper](https://arxiv.org/pdf/2403.03954)] [[project](https://3d-diffusion-policy.github.io/)] ☀️ ✅
 
 ### 🔁 Reinforcement Learning (RL) on Robotics Manipulation
+- **Probe, Learn, Distill**: Self-Improving Vision-Language-Action Models with Data Generation via Residual RL [[paper](https://www.wenlixiao.com/self-improve-VLA-PLD/assets/doc/pld-fullpaper.pdf)] [[project](https://www.wenlixiao.com/self-improve-VLA-PLD)] 🧐
 - **RL-100**: Performant Robotic Manipulation with Real-World Reinforcement Learning [[paper](https://arxiv.org/pdf/2510.14830)] [[project](https://lei-kun.github.io/RL-100/)] 🧐
 - **SARM**: STAGE-AWARE REWARD MODELING FOR LONG HORIZON ROBOT MANIPULATION [[paper](https://arxiv.org/pdf/2509.25358)] [[project](https://qianzhong-chen.github.io/sarm.github.io/)] 🧐
 - **DEEPSEARCH**: OVERCOME THE BOTTLENECK OF REINFORCEMENT LEARNING WITH VERIFIABLE REWARDS VIA MONTE CARLO TREE SEARCH [[paper](https://arxiv.org/pdf/2509.25454)] [[project](https://huggingface.co/fangwu97/DeepSearch-1.5B)] ☀️
