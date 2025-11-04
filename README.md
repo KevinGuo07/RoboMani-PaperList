@@ -47,7 +47,7 @@ Works claimed with **code coming soon** are marked with a 🧐
 - **GeoVLA**: Empowering 3D Representations in Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2508.09071)] [[project](https://linsun449.github.io/GeoVLA//)] 🧐
 - **GraphCoT-VLA**: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions [[paper](https://arxiv.org/pdf/2508.07650)]
 - **InstructVLA**: Vision-Language-Action Instruction Tuning: From Understanding to Manipulation [[paper](https://arxiv.org/pdf/2507.17520)] [[project](https://yangs03.github.io/InstructVLA_Home/)] ☀️
-- **Being-H0**: Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[paper](https://arxiv.org/pdf/2507.15597)] [[project](https://beingbeyond.github.io/Being-H0/)] ☀️
+- **Being-H0**: Vision-Language-Action Pretraining from Large-Scale Human Videos [[paper](https://arxiv.org/pdf/2507.15597)] [[project](https://beingbeyond.github.io/Being-H0/)] ☀️
 - **EgoVLA**: Learning Vision-Language-Action Models from Egocentric Human Videos [[paper](https://arxiv.org/pdf/2507.12440)] [[project](https://rchalyang.github.io/EgoVLA/)]
 - **ThinkAct**: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[paper](https://arxiv.org/pdf/2507.16815)] [[project](https://jasper0314-huang.github.io/thinkact-vla/)] 🧐
 - **GR-3** Technical Report [[paper](https://arxiv.org/pdf/2507.15493)] [[project](https://seed.bytedance.com/en/GR3)]
