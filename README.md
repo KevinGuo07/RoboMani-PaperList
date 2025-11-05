@@ -28,7 +28,8 @@ Works claimed with **code coming soon** are marked with a 🧐
 ## 📚 Paper List
 
 ### 🧠 Generalist Manipulation Models and Methods
-- Running VLAs at Real-time Speed  [[paper](https://arxiv.org/pdf/2510.26742)] [[project](https://github.com/Dexmal/realtime-vla)] ☀️
+- **GEN-0**: Embodied Foundation Models That Scale with Physical Interaction [[paper](https://generalistai.com/blog/nov-04-2025-GEN-0)]
+- Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)] [[project](https://github.com/Dexmal/realtime-vla)] ☀️
 - **VLA-0**: Building State-of-the-Art VLAs with Zero Modification  [[paper](https://arxiv.org/pdf/2510.13054v1)] [[project](https://vla0.github.io/)] ☀️  
 - **EgoBridge**: Domain Adaptation for Generalizable Imitation from Egocentric Human Data  [[paper](https://arxiv.org/pdf/2509.19626)] [[project](https://ego-bridge.github.io/)] 🧐 
 - **MLA**: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation [[paper](https://arxiv.org/pdf/2509.26642)] [[project](https://sites.google.com/view/open-mla)]
