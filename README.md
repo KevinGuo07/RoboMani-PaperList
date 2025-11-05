@@ -29,6 +29,8 @@ Works claimed with **code coming soon** are marked with a 🧐
 
 ### 🧠 Generalist Manipulation Models and Methods
 - **GEN-0**: Embodied Foundation Models That Scale with Physical Interaction [[paper](https://generalistai.com/blog/nov-04-2025-GEN-0)]
+- **LACY**: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation [[paper](https://arxiv.org/pdf/2511.02239)] [[project](https://vla2026.github.io/LACY/#l2c)]
+- **RobustVLA**: Robustness-Aware ReinforcementPost-Training for Vision-Language-Action Models [[paper](https://arxiv.org/pdf/2511.01331)]
 - Running VLAs at Real-time Speed [[paper](https://arxiv.org/pdf/2510.26742)] [[project](https://github.com/Dexmal/realtime-vla)] ☀️
 - **VLA-0**: Building State-of-the-Art VLAs with Zero Modification  [[paper](https://arxiv.org/pdf/2510.13054v1)] [[project](https://vla0.github.io/)] ☀️  
 - **EgoBridge**: Domain Adaptation for Generalizable Imitation from Egocentric Human Data  [[paper](https://arxiv.org/pdf/2509.19626)] [[project](https://ego-bridge.github.io/)] 🧐 
